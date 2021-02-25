@@ -1,0 +1,187 @@
+[
+  {
+    "name": "Bull Run",
+    "contractAddress": "0xd92e44ac213b9ebda0178e1523cc0ce177b7fa96",
+    "niftyType": "1"
+  },
+  {
+    "name": "Into the Ether",
+    "contractAddress": "0xd92e44ac213b9ebda0178e1523cc0ce177b7fa96",
+    "niftyType": "2"
+  },
+  {
+    "name": "Forever Mamba",
+    "contractAddress": "0x8ae06a29a816580cbd069e460dd57c6c964bb3da",
+    "niftyType": "1"
+  },
+  {
+    "name": "Miles High",
+    "contractAddress": "0x8ae06a29a816580cbd069e460dd57c6c964bb3da",
+    "niftyType": "2"
+  },
+  {
+    "name": "Wonder",
+    "contractAddress": "0x8ae06a29a816580cbd069e460dd57c6c964bb3da",
+    "niftyType": "3"
+  },
+  {
+    "name": "Heroes Playing Poker - Inked Edition",
+    "contractAddress": "0xc31ca62f1c90b5bce1564a995228855b026af290",
+    "niftyType": "2"
+  },
+  {
+    "name": "Heroes Playing Poker - Modern Edition",
+    "contractAddress": "0xaac1c334fa3e791904439c5f217f53dccbf7ea59",
+    "niftyType": "2"
+  },
+  {
+    "name": "Heroes Playing Poker - Classic Edition",
+    "contractAddress": "0xaac1c334fa3e791904439c5f217f53dccbf7ea59",
+    "niftyType": "3"
+  },
+  {
+    "name": "Heroes Playing Poker - Painterly Edition",
+    "contractAddress": "0xaac1c334fa3e791904439c5f217f53dccbf7ea59",
+    "niftyType": "1"
+  },
+  {
+    "name": "Death … Always Present",
+    "contractAddress": "0x1ce7a600ed98dd51e3d7580e4c707cfcf896efac",
+    "niftyType": "1"
+  },
+  {
+    "name": "TO THE MOON",
+    "contractAddress": "0x30f23d387c076d61fa5017516bedadee01a27356",
+    "niftyType": "1"
+  },
+  {
+    "name": "I Need To Return Some Video Tapes",
+    "contractAddress": "0x30f23d387c076d61fa5017516bedadee01a27356",
+    "niftyType": "3"
+  },
+  {
+    "name": "Our Lord And Savior",
+    "contractAddress": "0x30f23d387c076d61fa5017516bedadee01a27356",
+    "niftyType": "2"
+  },
+  {
+    "name": "Rusty",
+    "contractAddress": "0x01a7abd1e371d7a43ebbc1f17cd2660f1d77287b",
+    "niftyType": "1"
+  },
+  {
+    "name": "Bye Kitty ",
+    "contractAddress": "0x1d523b2dbdce523a16d3cc38c3e026c4bc09c20d",
+    "niftyType": "1"
+  },
+  {
+    "name": "I Am A Jedi",
+    "contractAddress": "0x90709c29b779e5228e86ff04bb60a3643ea3e0e6",
+    "niftyType": "3"
+  },
+  {
+    "name": "Wakanda Lights",
+    "contractAddress": "0x90709c29b779e5228e86ff04bb60a3643ea3e0e6",
+    "niftyType": "7"
+  },
+  {
+    "name": "Doctor, Doctor ",
+    "contractAddress": "0x90709c29b779e5228e86ff04bb60a3643ea3e0e6",
+    "niftyType": "8"
+  },
+  {
+    "name": "Vader ",
+    "contractAddress": "0x90709c29b779e5228e86ff04bb60a3643ea3e0e6",
+    "niftyType": "4"
+  },
+  {
+    "name": "3000",
+    "contractAddress": "0x90709c29b779e5228e86ff04bb60a3643ea3e0e6",
+    "niftyType": "2"
+  },
+  {
+    "name": "Obi",
+    "contractAddress": "0x90709c29b779e5228e86ff04bb60a3643ea3e0e6",
+    "niftyType": "5"
+  },
+  {
+    "name": "Blue Dota 2 Ring ",
+    "contractAddress": "0x3f133816f8178b93ac991a2c3eeddb8f947af0cb",
+    "niftyType": "1"
+  },
+  {
+    "name": "Radiant",
+    "contractAddress": "0x049057f64fe1c02897947eafc04bf1860226eb8d",
+    "niftyType": "1"
+  },
+  {
+    "name": "Grey Dota 2 Ring",
+    "contractAddress": "0x3f133816f8178b93ac991a2c3eeddb8f947af0cb",
+    "niftyType": "5"
+  },
+  {
+    "name": "Purple Dota 2 Ring Still",
+    "contractAddress": "0x3f133816f8178b93ac991a2c3eeddb8f947af0cb",
+    "niftyType": "7"
+  },
+  {
+    "name": "Extrusion",
+    "contractAddress": "0xe498ec1aff3c1460f6a818826443fd2a7817e775",
+    "niftyType": "2"
+  },
+  {
+    "name": "Fusion",
+    "contractAddress": "0xe498ec1aff3c1460f6a818826443fd2a7817e775",
+    "niftyType": "3"
+  },
+  {
+    "name": "Arcade Machine Dreams: Superzapper",
+    "contractAddress": "0xc9d673008b8f08103e7a3e096b6fdd56fc575d49",
+    "niftyType": "1"
+  },
+  {
+    "name": "Arcade Machine Dreams: Mutant",
+    "contractAddress": "0xc9d673008b8f08103e7a3e096b6fdd56fc575d49",
+    "niftyType": "2"
+  },
+  {
+    "name": "Arcade Machine Dreams: Synthesized",
+    "contractAddress": "0xc9d673008b8f08103e7a3e096b6fdd56fc575d49",
+    "niftyType": "3"
+  },
+  {
+    "name": "Why would I care I'm just a cat?",
+    "contractAddress": "0xd949a444f29ede73f517942eb4d8e3ccdab25d58",
+    "niftyType": "2"
+  },
+  {
+    "name": "First Storm",
+    "contractAddress": "0x9bd5ad493b8b81b568e26aa8d43ad2af073dc88b",
+    "niftyType": "4"
+  },
+  {
+    "name": "Vitalik Buterin",
+    "contractAddress": "0x573b88ebbf597d51ed19476b7e8ddc1fcd6c9de3",
+    "niftyType": "2"
+  },
+  {
+    "name": "Satoshi Nakamoto",
+    "contractAddress": "0x573b88ebbf597d51ed19476b7e8ddc1fcd6c9de3",
+    "niftyType": "1"
+  },
+  {
+    "name": "Future Crypto",
+    "contractAddress": "0x573b88ebbf597d51ed19476b7e8ddc1fcd6c9de3",
+    "niftyType": "3"
+  },
+  {
+    "name": "Infinite Sculpture 1",
+    "contractAddress": "0xb2dc5f254c5568a9684afd9ffd0c0d9bed2b92c0",
+    "niftyType": "1"
+  },
+  {
+    "name": "Infinite Sculpture 2",
+    "contractAddress": "0xb2dc5f254c5568a9684afd9ffd0c0d9bed2b92c0",
+    "niftyType": "2"
+  }
+]
